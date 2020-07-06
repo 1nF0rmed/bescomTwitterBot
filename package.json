@@ -29,6 +29,6 @@
   },
   "homepage": "https://github.com/1nF0rmed/bescomTwitterBot#readme",
   "dependencies": {
-    "twitter": "^1.7.1"
+    "twit": "^2.2.11"
   }
 }
