@@ -1,0 +1,34 @@
+{
+  "name": "bescomtwitterbot",
+  "version": "0.1.0",
+  "description": "A twitter bot that direct messages you when there is an electricity outage in a users are",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1nF0rmed/bescomTwitterBot.git"
+  },
+  "keywords": [
+    "bescom",
+    "electricity",
+    "twitter",
+    "bot",
+    "dm",
+    "direct",
+    "message",
+    "nodejs",
+    "express",
+    "webhook"
+  ],
+  "author": "1nF0rmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1nF0rmed/bescomTwitterBot/issues"
+  },
+  "homepage": "https://github.com/1nF0rmed/bescomTwitterBot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
