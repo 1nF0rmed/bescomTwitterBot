@@ -2,6 +2,11 @@
 
 A bot that tracks tweets from Namma BESCOM about power outages in Bangalore and sends a direct message to me if my area is affected with information about the restoration time.
 
+## Dependencies
+
+1. Node >= v10.21.0
+2. npm >= 6.14.4
+
 ## Setup
 
 ### Twitter Setup
